@@ -54,7 +54,7 @@ This project implements real-time object detection using YOLOv8 and your laptop'
 ## Project Structure
 ```
 yolov8-real-time-webcam/
-├── detect.py           # Main detection script (fully annotated)
+├── detect.py           # Main detection script
 ├── requirements.txt    # Project dependencies
 ├── README.md           # Project documentation
 └── .gitignore          # Git ignore file
